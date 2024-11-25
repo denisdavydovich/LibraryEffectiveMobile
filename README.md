@@ -1,5 +1,7 @@
 # LibraryEffectiveMobile
-[Гифка](/Users/denisdavydovic/Downloads/giphy.webp)
+<div id="header" align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2hsd29ldDYxejY3cWY5bGQwb3V3bzR4MWJlMjUzbnhyemk5eG0yNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp" width="100"/>
+</div>
 ## Описание проекта
 Эта программа позволяет управлять библиотекой книг: добавлять, удалять, искать, обновлять статус книг, а также просматривать их список. Она поддерживает хранение данных в формате JSON и имеет встроенные тесты для проверки основных функций.
 
